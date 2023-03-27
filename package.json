@@ -10,6 +10,9 @@
   "proxy": "http://localhost:5000/",
   "author": "",
   "license": "ISC",
+  "engines": {
+    "node": ">=14 <15"
+  },
   "dependencies": {
     "body-parser": "^1.20.1",
     "cors": "^2.8.5",
